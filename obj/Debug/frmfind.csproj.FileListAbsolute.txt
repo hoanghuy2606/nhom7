@@ -1,0 +1,11 @@
+D:\OnKTLT\frmfind\bin\Debug\frmfind.exe.config
+D:\OnKTLT\frmfind\bin\Debug\frmfind.exe
+D:\OnKTLT\frmfind\bin\Debug\frmfind.pdb
+D:\OnKTLT\frmfind\obj\Debug\frmfind.csproj.AssemblyReference.cache
+D:\OnKTLT\frmfind\obj\Debug\frmfind.csproj.SuggestedBindingRedirects.cache
+D:\OnKTLT\frmfind\obj\Debug\frmfind.Form1.resources
+D:\OnKTLT\frmfind\obj\Debug\frmfind.Properties.Resources.resources
+D:\OnKTLT\frmfind\obj\Debug\frmfind.csproj.GenerateResource.cache
+D:\OnKTLT\frmfind\obj\Debug\frmfind.csproj.CoreCompileInputs.cache
+D:\OnKTLT\frmfind\obj\Debug\frmfind.exe
+D:\OnKTLT\frmfind\obj\Debug\frmfind.pdb
